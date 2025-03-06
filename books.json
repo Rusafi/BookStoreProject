@@ -1,0 +1,82 @@
+[
+    {
+        "ISBN": "123456",
+        "Title": "Python Basics",
+        "Author": "John Doe",
+        "Genre": "Programming",
+        "Price": 29.99,
+        "Quantity": 5
+    },
+    {
+        "ISBN": "789101",
+        "Title": "Machine Learning",
+        "Author": "Jane Doe",
+        "Genre": "AI",
+        "Price": 39.99,
+        "Quantity": 3
+    },
+    {
+        "ISBN": "112233",
+        "Title": "Data Science Essentials",
+        "Author": "Alice Smith",
+        "Genre": "Data Science",
+        "Price": 49.99,
+        "Quantity": 7
+    },
+    {
+        "ISBN": "445566",
+        "Title": "Deep Learning with Python",
+        "Author": "Bob Johnson",
+        "Genre": "Artificial Intelligence",
+        "Price": 59.99,
+        "Quantity": 4
+    },
+    {
+        "ISBN": "778899",
+        "Title": "JavaScript for Beginners",
+        "Author": "Emily Davis",
+        "Genre": "Web Development",
+        "Price": 25.99,
+        "Quantity": 10
+    },
+    {
+        "ISBN": "991122",
+        "Title": "Cybersecurity Fundamentals",
+        "Author": "Michael Brown",
+        "Genre": "Security",
+        "Price": 34.99,
+        "Quantity": 6
+    },
+    {
+        "ISBN": "334455",
+        "Title": "SQL Mastery",
+        "Author": "David Wilson",
+        "Genre": "Database",
+        "Price": 27.99,
+        "Quantity": 8
+    },
+    {
+        "ISBN": "556677",
+        "Title": "Cloud Computing Concepts",
+        "Author": "Sophia Martinez",
+        "Genre": "Cloud Computing",
+        "Price": 45.99,
+        "Quantity": 5
+    },
+    {
+        "ISBN": "889900",
+        "Title": "C++ Programming Guide",
+        "Author": "Robert White",
+        "Genre": "Programming",
+        "Price": 31.99,
+        "Quantity": 9
+    },
+    {
+        "ISBN": "223344",
+        "Title": "Networking Essentials",
+        "Author": "Olivia Taylor",
+        "Genre": "Networking",
+        "Price": 38.99,
+        "Quantity": 7
+    }
+]
